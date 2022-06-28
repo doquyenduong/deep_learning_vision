@@ -25,4 +25,4 @@ A collaboration project at HSLU of Quyen, Amelia, Mark and Pascal.
 
 ### Models with Transformers  for benchmarking
 * GPT2_Benchmark_reviews_mobile_appliances.ipynb
-* GPT2_benchmark_skincare_reviews.ipynb: Comparing with the RNN model
+* GPT2_benchmark_skincare_reviews.ipynb: Comparing reviews for skincare products with the RNN model
