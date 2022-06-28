@@ -22,6 +22,7 @@ A collaboration project at HSLU of Quyen, Amelia, Mark and Pascal.
 ### Models with basic RNN 
 * RNN_basicmodel_song_lyrics_generation.ipynb: Generating song lyrics
 * RNN_basicmodel_Twitter_generation.ipynb: Generating Twitter
+* RNN_USnews_generation.ipynb: Generating news
 
 ### Models with Transformers  for benchmarking
 * GPT2_Benchmark_reviews_mobile_appliances.ipynb
