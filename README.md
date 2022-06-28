@@ -11,6 +11,8 @@ A collaboration project at HSLU of Quyen, Amelia, Mark and Pascal.
 * RNN_Town_Name_Generation.ipynb: Generating town names in Switzerland
 * RNN_Amazon_Review_Generation.ipynb: Generating Amazon reviews for product
 * BlogpostArticle_Bidirectional_RNN_WordSequence.ipynb: Generating blogs from news
+
+###  Model with Transformers with fine tuning 
 * BlogpostArticle_GPT2_FineTuneModel.ipynb: Generating blogs from news 
 
 ### Models with GAN
