@@ -3,9 +3,10 @@
 A collaboration project at HSLU of Quyen, Amelia, Mark and Pascal.
 
 ## Folder & file description
-* ✍️ **code** folder: the main codes of various models from basic to models with hyperparameter tunning
+* ✍️ **code** folder: main codes of various models from basic to models with hyperparameter tunning
 * 🔊 **experimental_code** folder: some draft codes
 * ✅ **data** folder: some datasets we used for the project
+* 😁 **presentation**: powerpoint presentation of the project
 
 ### Models with RNN with hyperparameter tunning
 * RNN_Town_Name_Generation.ipynb: Generating town names in Switzerland
@@ -22,6 +23,7 @@ A collaboration project at HSLU of Quyen, Amelia, Mark and Pascal.
 ### Models with basic RNN 
 * RNN_basicmodel_song_lyrics_generation.ipynb: Generating song lyrics
 * RNN_basicmodel_Twitter_generation.ipynb: Generating Twitter
+* RNN_USnews_generation.ipynb: Generating news
 
 ### Models with Transformers  for benchmarking
 * GPT2_Benchmark_reviews_mobile_appliances.ipynb
